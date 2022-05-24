@@ -1,0 +1,21 @@
+[
+   {
+      "question":"1. Normal force acting on a stationary plate by impact of a jet is proportional to:",
+      "answers":{
+         "a":"Square of velocity of jet",
+         "b":"Cube of velocity of jet",
+         "c":"Square root of velocity of jet"
+      },
+      "correctAnswer":"a"
+   },
+   {
+      "question":"2. What is the maximum efficiency that can be developed by a series of moving plates hit by a jet of water?",
+      "answers":{
+         "a":"75%",
+         "b":"25%",
+         "c":"50%",
+         "d":"99%"
+      },
+      "correctAnswer":"c"
+   }
+]

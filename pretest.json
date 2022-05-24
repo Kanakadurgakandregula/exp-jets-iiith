@@ -1,0 +1,19 @@
+[
+  {
+    "question": "1. Define impact of jet:",
+    "answers": {
+      "a": "Force extended by the jet on the plate",
+      "b": "Pressure of liquid when it comes out of jet opening",
+      "c": "Velocity of liquid when it strikes the plate"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "question": "2. Coefficient of velocity of jet is defined as the ratio between actual velocity of a jet of liquid at vena-contracta and the theoretical velocity of jet.",
+    "answers": {
+      "a": "False",
+      "b": "True"
+    },
+    "correctAnswer": "b"
+  }
+]
